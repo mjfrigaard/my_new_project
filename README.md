@@ -1,2 +1,3 @@
-# my_new_project
-My new project
+# My New Project
+
+These are file changes to my new project
